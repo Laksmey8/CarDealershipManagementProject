@@ -4,8 +4,11 @@ A Python-based car dealership management system using Tkinter for the GUI and SQ
 
 Features
 Add Cars: Add new cars to inventory with details like model, price, and stock.
+
 Sell Cars: Record sales and update car stock.
+
 Search Inventory: Search and display cars by model.
+
 Check Availability: View current stock levels of all cars.
 
 Requirements
