@@ -1,8 +1,11 @@
 Car Dealership Management System
+
 Overview
+
 A Python-based car dealership management system using Tkinter for the GUI and SQLite for the database. It allows you to manage car inventory, record sales, and check car availability.
 
 Features
+
 -Add Cars: Add new cars to inventory with details like model, price, and stock.
 
 -Sell Cars: Record sales and update car stock.
